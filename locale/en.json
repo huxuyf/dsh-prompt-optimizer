@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Prompt Optimizer",
+    "description": "Adds an icon below the composer, beside the model selector. Clicking it sends the draft prompt to the default model for optimization and replaces the draft with the result."
+  }
+}
