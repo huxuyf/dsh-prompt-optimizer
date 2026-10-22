@@ -1,0 +1,1 @@
+dsh write capability check - file created via Git Data API by DeepSeek Harness
